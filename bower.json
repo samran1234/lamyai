@@ -1,0 +1,17 @@
+{
+  "name": "lamyai",
+  "authors": [
+    "kris4444 <krits4444@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
